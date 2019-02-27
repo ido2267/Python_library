@@ -63,13 +63,14 @@ Functions:
 Program:
 Write a program that presents to the user (with infinite loop):
 1.	 Add a book (ask the user for book's details)
-2.	Replace a book (receives the name of the returned book and the name of the 
+2. add a reader
+3. give reader a book
+4. recieve a book from reader
+5.	Replace a book (receives the name of the returned book and the name of the 
 Book that is given
-3.	Print books for a writer (receives the writer's name)
-4.	Print the entire liberaray
-5.	Add a reader 
-
-6.	Exit the program
+6.	Print books for a writer (receives the writer's name)
+7.	Print the entire liberaray
+8.	Exit the program
 
 Write to a log file the starting time and ending time of the program
 Create a log in system to the program – the user will have to insert name and password that are kept in a file

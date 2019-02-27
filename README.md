@@ -3,7 +3,8 @@ My interpetation for the exerciseI did in the end of the python course by Yaniv 
 To check this at work you should download the files. execute file main.py and type 
 the user name 'ido' and the password: 123
 
- 
+Here are the demands of the exercise:
+
 A.
 Write the following classes (in different modules):
 
